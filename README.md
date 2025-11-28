@@ -570,7 +570,7 @@ Contributions are welcome. Please follow these guidelines:
 
 ## License
 
-MIT License - feel free to use this project for learning and portfolio purposes.
+MIT License - Dont feel free to use this project for learning and portfolio purposes.
 
 ## Contact
 
